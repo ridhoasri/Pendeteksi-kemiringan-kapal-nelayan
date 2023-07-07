@@ -1,1 +1,1 @@
-# Pendeteksi-kemiringan-kapal-nelayan
+# Pendeteksi kemiringan kapal nelayan
